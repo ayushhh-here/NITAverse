@@ -1,0 +1,50 @@
+# ==========================================
+# Byte-compiled / optimized / DLL files
+# ==========================================
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# ==========================================
+# Environments & Secrets
+# ==========================================
+.env
+*.env
+.venv/
+venv/
+ENV/
+env/
+
+# ==========================================
+# Vector Databases & Local Stores
+# ==========================================
+vector_db/
+chroma_db/
+*.sqlite3
+vecto_db/
+backend/vector_db/
+
+# ==========================================
+# Large Scraped Text Dumps & PDFs
+# (Keep repository lightweight and clean)
+# ==========================================
+data/processed/pdfs/pdf_texts/
+data/processed/pdfs/cleaned_pdf_texts/
+data/processed/webpages/txt/
+data/processed/webpages/json/
+*.pdf
+
+# ==========================================
+# IDE & OS Files
+# ==========================================
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# ==========================================
+# Logs & Scratch
+# ==========================================
+*.log
+scratch/

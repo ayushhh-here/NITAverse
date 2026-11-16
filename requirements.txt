@@ -1,0 +1,33 @@
+# ==========================================
+# NITAverse - Core Dependencies
+# ==========================================
+
+# Web Framework & API Backend
+fastapi>=0.110.0
+uvicorn[standard]>=0.28.0
+pydantic>=2.6.0
+
+# Frontend UI
+streamlit>=1.32.0
+pillow>=10.2.0
+
+# LLM & RAG Orchestration
+langchain>=0.2.0
+langchain-community>=0.2.0
+langchain-core>=0.2.0
+langchain-google-genai>=1.0.0
+langchain-astradb>=0.3.0
+
+# Embeddings & Vector Storage
+sentence-transformers>=2.6.0
+chromadb>=0.4.24
+
+# Document Processing & Web Scraping
+beautifulsoup4>=4.12.0
+requests>=2.31.0
+pdfplumber>=0.11.0
+pypdf>=4.0.0
+
+# Environment & Utilities
+python-dotenv>=1.0.0
+tqdm>=4.66.0
