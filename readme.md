@@ -162,7 +162,7 @@ Interactive API documentation will be available at `http://localhost:8000/docs`.
 ## 🗺️ Roadmap & Development Plan
 
 - [x] **Day 1**: Project architecture, repository design & environment setup
-- [ ] **Day 2**: Web crawlers & portal URL discovery scripts
+- [x] **Day 2**: Web crawlers & portal URL discovery scripts
 - [ ] **Day 3**: PDF batch downloader & link correction utilities
 - [ ] **Day 4**: PDF text extraction and tabular parsing engine
 - [ ] **Day 5**: Text normalization and boilerplate removal pipeline
