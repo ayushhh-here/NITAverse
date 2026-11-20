@@ -164,7 +164,7 @@ Interactive API documentation will be available at `http://localhost:8000/docs`.
 - [x] **Day 1**: Project architecture, repository design & environment setup
 - [x] **Day 2**: Web crawlers & portal URL discovery scripts
 - [x] **Day 3**: PDF batch downloader & link correction utilities
-- [ ] **Day 4**: PDF text extraction and tabular parsing engine
+- [x] **Day 4**: PDF text extraction and tabular parsing engine
 - [ ] **Day 5**: Text normalization and boilerplate removal pipeline
 - [ ] **Day 6**: Metadata extraction & structured JSON unification
 - [ ] **Day 7**: Pipeline validation & test benchmarks

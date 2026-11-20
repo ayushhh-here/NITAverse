@@ -31,6 +31,7 @@ backend/vector_db/
 # ==========================================
 data/processed/pdfs/pdf_texts/
 data/processed/pdfs/cleaned_pdf_texts/
+data/processed/pdfs/pdf_json/
 data/processed/webpages/txt/
 data/processed/webpages/json/
 *.pdf
