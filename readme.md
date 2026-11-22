@@ -166,7 +166,7 @@ Interactive API documentation will be available at `http://localhost:8000/docs`.
 - [x] **Day 3**: PDF batch downloader & link correction utilities
 - [x] **Day 4**: PDF text extraction and tabular parsing engine
 - [x] **Day 5**: Text normalization and boilerplate removal pipeline
-- [ ] **Day 6**: Metadata extraction & structured JSON unification
+- [x] **Day 6**: Metadata extraction & structured JSON unification
 - [ ] **Day 7**: Pipeline validation & test benchmarks
 - [ ] **Day 8**: Document chunking strategy (`RecursiveCharacterTextSplitter`)
 - [ ] **Day 9**: Embedding generation & ChromaDB vector indexing
