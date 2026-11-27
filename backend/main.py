@@ -6,14 +6,14 @@ from dotenv import load_dotenv
 
 # --- Core RAG Imports ---
 try:
-    from langchain_chroma import Chroma
+    from langchain_chroma import Chroma  # type: ignore
 except ImportError:
-    from langchain_community.vectorstores import Chroma
+    from langchain_community.vectorstores import Chroma  # type: ignore
 
 try:
-    from langchain_huggingface import HuggingFaceEmbeddings
+    from langchain_huggingface import HuggingFaceEmbeddings  # type: ignore
 except ImportError:
-    from langchain_community.embeddings import HuggingFaceEmbeddings
+    from langchain_community.embeddings import HuggingFaceEmbeddings  # type: ignore
 
 from langchain_google_genai import ChatGoogleGenerativeAI
 from langchain_core.prompts import ChatPromptTemplate
