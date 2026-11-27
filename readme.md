@@ -170,7 +170,7 @@ Interactive API documentation will be available at `http://localhost:8000/docs`.
 - [x] **Day 7**: Pipeline validation & test benchmarks
 - [x] **Day 8**: Document chunking strategy (`RecursiveCharacterTextSplitter`)
 - [x] **Day 9**: Embedding generation & ChromaDB vector indexing
-- [ ] **Day 10**: Context-grounded Gemini 2.0 Flash RAG chain
+- [x] **Day 10**: Context-grounded Gemini 2.0 Flash RAG chain
 - [ ] **Day 11**: FastAPI backend service implementation
 - [ ] **Day 12**: Streamlit web interface with custom NITA branding
 - [ ] **Day 13**: Fallback handling & query response caching
